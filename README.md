@@ -4,6 +4,6 @@
 ### Project in React using the Breaking Bad API 
 
 
-Studying: ReactJs Hooks, and API. 
+Studying: React Hooks, and API. 
 
 Base on the TM video.
